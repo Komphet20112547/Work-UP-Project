@@ -23,4 +23,6 @@
 - การจัดการโปรเจกต์ : Scrum Tracking, Trello
 
 ### แผนผังฐานข้อมูล (Database Schema) :
-- ER Diagram : 
+- ER Diagram : (https://github.com/Komphet20112547/Work-UP-Project/blob/main/ER_Diagram.png)
+- Schema : (https://github.com/Komphet20112547/Work-UP-Project/blob/main/Shcema.png)
+- Data Base(SQL Mockup) : 

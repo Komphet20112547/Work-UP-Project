@@ -25,4 +25,4 @@
 ### แผนผังฐานข้อมูล (Database Schema) :
 - ER Diagram : (https://github.com/Komphet20112547/Work-UP-Project/blob/main/ER_Diagram.png)
 - Schema : (https://github.com/Komphet20112547/Work-UP-Project/blob/main/Shcema.png)
-- Data Base(SQL Mockup) : 
+- Data Base(SQL Mockup) : (https://github.com/Komphet20112547/Work-UP-Project/blob/main/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%87%E0%B8%B2%E0%B8%99/Database_Work_UP.sql)
